@@ -1,0 +1,17 @@
+{
+  "name": "giraldo_jaime_parcial2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Jaime Giraldo",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.15.1",
+    "express": "^4.16.3",
+    "handlebars": "^4.0.11",
+    "nodemon": "^1.17.5"
+  }
+}
